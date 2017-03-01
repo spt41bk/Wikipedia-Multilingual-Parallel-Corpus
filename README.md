@@ -1,7 +1,7 @@
 # Wikipedia-Multilingual-Parallel-Corpus
 
 
-5 languages aligned Parallel corpus data : It contains Parallel aligned sentences for 5 languages which encovers id Indonesian, ms Malay, fil Filipino, vi Vietnamese, en English.
+5 languages aligned Parallel corpus data : It contains Parallel aligned sentences for 5 languages which encovers Indonesian, Malay, Filipino, Vietnamese, English.
 
 # Bilingual Parallel Corpus
 Language 1 | Language 2 |  Sentences
