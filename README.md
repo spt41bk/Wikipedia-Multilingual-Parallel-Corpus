@@ -26,3 +26,7 @@ Indonesian | 1,478,986
 Malay | 596,097
 Filipino | 682,939
 Vietnamese | 1,862,599
+
+# Citation
+The corpus is introduced in this paper:
+Multi-Wiki: A Multilingual Parallel Corpus for Southeast AsianLanguages
