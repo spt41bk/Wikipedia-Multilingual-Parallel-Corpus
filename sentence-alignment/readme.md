@@ -27,3 +27,8 @@ train with folder
 	
 # 4. Train Full Model
 	java -cp target/classes:target/lib/* Sentence_Aligner train-full-folder inDir srclang trglang threshold1 threshold2 searchinglimit outDir
+
+# References
+The program is implemented from this paper:
+
+Robert C. Moore (2002): Fast and Accurate Sentence Alignment of Bilingual Corpora, Machine Translation: From Research to Real Users, 5th Conference of the Association for Machine Translation in the Americas, AMTA 2002 Tiburon, CA, USA, October 6-12, 2002, Proceedings
