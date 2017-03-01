@@ -1,7 +1,7 @@
 # Wikipedia-Multilingual-Parallel-Corpus
 
 
-This corpus contains parallel aligned sentences extracted from Wikipedia in Southeast Asian languages: Indonesian, Malay, Filipino, Vietnamese, English.
+This corpus contains parallel aligned sentences extracted from Wikipedia in languages: Indonesian, Malay, Filipino, Vietnamese, English.
 
 # Bilingual Parallel Corpus
 Language 1 | Language 2 |  Sentences
